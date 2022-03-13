@@ -15,8 +15,7 @@ This repository is to document my process during the MIT’s 6.00.1x course - In
 #### Simple programs:
 - Approximate Solutions, Bisection Search, Floats and Fractions, Newton-Raphson  
 #### Functions:
-- Decomposition and Abstraction, Functions and Scope, Keyword Arguments, Specifications, Iteration vs Recursion,   
-  Inductive Reasoning, Towers of Hanoi, Fibonacci, Recursion on non-numerics, Files 
+- Decomposition and Abstraction, Functions and Scope, Keyword Arguments, Specifications, Iteration vs Recursion, Inductive Reasoning, Towers of Hanoi, Fibonacci, Recursion on non-numerics, Files 
 
 <br>
 
