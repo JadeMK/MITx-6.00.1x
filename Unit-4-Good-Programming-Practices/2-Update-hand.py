@@ -23,8 +23,5 @@ def updateHand(hand, word):
     hand: dictionary (string -> int)    
     returns: dictionary (string -> int)
     """
-    new_hand = hand.copy()
-    for i in word:
-        if i in new_hand:
-            new_hand[i] -= 1
+    new_hand = {i: hand[i] - word.count(i) for i in hand}
     return new_hand
