@@ -48,3 +48,9 @@ This repository is to document my process during the MIT’s 6.00.1x course - In
 - Program Efficiency, Big Oh Notation, Complexity Classes, Analyzing Complexity  
 #### Searching and Sorting Algorithms:  
 - Indirection, Linear Search, Bisection Search, Bogo and Bubble Sort, Selection Sort, Merge Sort
+
+<br>
+
+## Unit 7: Plotting
+#### Visualization of Data:
+- Visualizing Results, Overlapping Displays, Adding More Documentation, Changing Data Display, An Example
